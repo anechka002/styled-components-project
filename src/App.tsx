@@ -9,13 +9,13 @@ import { colorTheme } from './components/styles/Theme.styled';
 function App() {
   return (
     <div>
-      {/* <Menu>
+      <Menu>
         <ul>
           <li><a href="">menu item 1</a></li>
           <li><a href="">menu item 2</a></li>
           <li><a href="">menu item 3</a></li>
         </ul>
-      </Menu> */}
+      </Menu>
       <Box>
         {/* <StyledBtn as={Link} href={'#'}>LinkComponent</StyledBtn> */}
         {/* <StyledBtn as="a" href={'#'}>Link</StyledBtn> */}
