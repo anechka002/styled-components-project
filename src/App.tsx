@@ -26,7 +26,7 @@ function App() {
         <StyledBtn fontSize={'30px'}>Hello</StyledBtn> */}
 
         <StyledBtn color={colorTheme.colors.primary} btnType={'primary'} active>Hi</StyledBtn>
-        <h1>Yo yo</h1>
+        <h1>      Yo yo</h1>
         <StyledBtn color={colorTheme.colors.secondary} btnType={'outlined'}>Hello</StyledBtn>
 
         {/* <input type="text" />
