@@ -26,7 +26,7 @@ function App() {
         <StyledBtn fontSize={'30px'}>Hello</StyledBtn> */}
 
         <StyledBtn color={colorTheme.colors.primary} btnType={'primary'} active>Hi</StyledBtn>
-        <h1>      Yo yo</h1>
+        <h1>Yo yo</h1>
         <StyledBtn color={colorTheme.colors.secondary} btnType={'outlined'}>Hello</StyledBtn>
 
         {/* <input type="text" />
@@ -44,7 +44,7 @@ const Box = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 20px;
 
   button {
     cursor: pointer;
