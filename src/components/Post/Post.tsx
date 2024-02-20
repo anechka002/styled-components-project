@@ -7,7 +7,7 @@ export const Post = () => {
       <p>Жесть конечно</p>
       <p>London</p>
       <p>London123</p>
-      <p>London1234</p>
+      <p>London1</p>
     </div>
   )
 }
