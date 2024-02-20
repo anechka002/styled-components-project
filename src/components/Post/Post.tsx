@@ -5,7 +5,7 @@ export const Post = () => {
     <div>
       <h2>Post 333</h2>
       <p>Жесть конечно</p>
-      <p>Жесть конечно</p>
+      <p>London</p>
     </div>
   )
 }
