@@ -7,6 +7,7 @@ export const Post = () => {
       <h2>commit 2</h2>
       <h2>commit 3</h2>
       <p>Hello</p>
+      <p>My Friends</p>
     </div>
   )
 }
